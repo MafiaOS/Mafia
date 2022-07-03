@@ -1,1 +1,1 @@
-worker: bash devilultra
+worker: lightningrun.py
