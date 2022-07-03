@@ -1,17 +1,15 @@
-FROM MrDevilUltra/DEVILULTRA:latest
+FROM python:3.10-slim-buster
 
-# clonning repo 
-RUN git clone https://github.com/MrDevilUltra/DEVILULTRA.git /root/userbot
+WORKDIR /app
 
-RUN pip install --upgrade pip
+RUN apt-get -y update
 
-# working directory 
-WORKDIR /root/userbot
+RUN apt-get -y install git gcc python3-dev
 
-# Install requirements
-RUN pip3 install -U -r requirements.txt
+COPY requirements.txt requirements.txt
 
-ENV PATH="/home/userbot/bin:$PATH"
+RUN pip3 install -r requirements.txt
 
+COPY . .
 
-CMD ["python3","-m","userbot"]
+CMD [ "python3", "main.py"]
