@@ -73,9 +73,10 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 # String
 
-[![Run on Repl.it](https://repl.it/badge/github/KeinShin/Black-Lightning&theme=midnight-purple)](https://replit.com/@Paramatin/Lightning-Repl#main.py
-)
 
+
+[ Get it From @stringbyultradevil_bot
+)
 
 
 
