@@ -1,81 +1,66 @@
 {
-    "name": "Devil Ultra - UserBot",
-    "description": "An advanced Telethon Userbot, from @MrDevilUltra",
-    "logo": "https://telegra.ph/file/d8d194c18562472a7c1f1.jpg",
-    "keywords": [
-     "telegram",
-     "userbot",
-     "userbot",
-     "modular",
-     "productivity"
-    ],
+    "name": "DEVILULTRA",
+    "description": "Tнє Smoothest And Fastest Bot Made By ©Mr_Devil_Ultra. Made with Love And By Python Language With Hardwork... 💙!",
+    "logo": "https://te.legra.ph/file/6ec5599d83ef556279b28.jpg",
     "repository": "https://github.com/MrDevilUltra/DEVILULTRA",
-    "website": "https://github.com/MrDevilUltra/DEVILULTRA",
-    "success_url": "https://t.me/Devil_Ultra_support_channel",
-    "stack": "container",
     "env": {
-     "APP_ID": {
-      "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
-     },
-     "API_HASH": {
-      "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
-     },
-     "STRING_SESSION": {
-      "description": "Get this value by running python3 telesetup.py locally or https://replit.com/@Paramatin/Lightning-Repl#main.py online.",
-      "value": ""
-     },
-      "CMD_HNDLR": {
-      "description": "Used to invoke commands, leave as it for default",
-      "value": ".",
-      "required": false
-     },
-       "COMBINED_GROUP_ID": {
-      "description": "This is all in one group id. just add @Missrose_bot to your private group and do /id",
-      "value": "",
-      "required": true
-     },
-      "LIGHTNING_ALV_IMG": {
-      "description": "To add another Alive pic, Leave blank for default. ",
-      "value": "",
-      "required": false
-     }, 
-      "HEROKU_API_KEY": {
-      "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
-      "value": "",
-      "required": true
-     },
-     "SUDO_USERS": {
-      "description": "Users you want to give access to your bot. (Don't allow unknown people)",
-      "value": "",
-      "required": false
-     },
-     "HEROKU_APP_NAME": {
-      "description": "The Value of App Name you filled in right on top.Required for updater to work.",
-      "value": "",
-      "required": true
-     },
-     "TG_BOT_TOKEN_BF_HER": {
-      "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot. Get it else .help won't work.",
-      "value": "",
-      "required": true
-     },
-     "TG_BOT_USER_NAME_BF_HER": {
-      "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the username of your bot. Needed for .help to work.",
-      "value": "",
-      "required": true
-     },
-     "ALIVE_NAME": {
-      "description": "Put Your Name you can use designer fonts. ",
-      "value": "",
-      "required": false
-     }
+        "STRING_SESSION1": {
+            "description": "pyrogram string session here",
+            "required": true
+        }, 
+        "API_ID": {
+            "description": "telegram api id here",
+            "required": true
+        },
+        "MONGO_DB": {
+            "description": "Enter Your Mongo Database Url! This Is helpful for gban fban etc stuffs",
+            "required": false
+        },
+        "LOG_GROUP": {
+            "description": "Enter There group/ channel id where fbans etc stuffs logs.",
+            "required": false
+        },
+        "SUDO_USERS": {
+            "description": "Who have Access Your Account But Rearly Plugins there",
+            "required": true
+        },
+        "HEROKU_API": {
+            "description": "Enter You Heroku Api there",
+            "required": false
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Enter Your heroku App Name Here",
+            "required": false
+        },
+        "API_HASH": {
+            "description": "telegram api hash here",
+            "required": true
+        }
     },
-    "addons": [{
-     "plan": "heroku-postgresql",
-     "options": {
-      "version": "12"
-     }
-    }]
-  }
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }],
+    "buildpacks": [
+            {
+                "url": "heroku/python"
+            },
+            {
+                "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+            }
+        ]
+}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
