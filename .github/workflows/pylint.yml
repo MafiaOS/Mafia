@@ -30,7 +30,7 @@ jobs:
         with:
           commit_message: 'pylint: auto fixes'
           commit_options: '--no-verify'
-          repository: .
-          commit_user_name: MrUltraDevil
+          repository: https://github.com/MrDevilUltra/DEVILULTRA
+          commit_user_name: MrDevilUltra
           commit_user_email: pankajjuad@gmail.com
           commit_author: MrDevilUltra <pankajjuad@gmail.com>
