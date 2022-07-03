@@ -1,4 +1,4 @@
-name: KeinShin
+name: MrDevilUltra
 
 on: push
 
@@ -20,7 +20,7 @@ jobs:
 
           find: "lightningsupport"
 
-          replace: "lightning_support_group"
+          replace: "friendsforeverunique"
 
       - name: Create Pull Request
 
@@ -34,6 +34,6 @@ jobs:
 
           repository: .
 
-          commit_user_name: Kei
+          commit_user_name: MrDevilUltra
 
-          commit_user_email: poxsisofficial@gmail.com
+          commit_user_email: pankajjuad@gmail.com
