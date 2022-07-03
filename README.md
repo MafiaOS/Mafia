@@ -18,7 +18,7 @@
 <a href="https://t.me/friendsforeverunique"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Total Commands = CMDS Are More Than 470 :D
-# About ɮʟǟƈᏦ ʟɨɢɦƭռɨռɢ
+# About ĐɆVłⱠ ɄⱠ₮Ɽ₳
 
 1. Can Do Many This Such As Download ANy Video From Youtube and Other Sites
 
