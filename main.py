@@ -59,9 +59,9 @@ START_TIME = datetime.now()
 
 if bot1:
     bot1.start()
-    bot1.join_chat("XnKiT_K")
+    bot1.join_chat("devilultradevil")
 
 idle()
 
-print("🎉 Successfully Deployed LiSa 🎉")
-print("Enjoy! LiSa Pyro Version")
+print("🎉 Successfully Deployed DEVIL-ULTRA 🎉")
+print("Enjoy!")
