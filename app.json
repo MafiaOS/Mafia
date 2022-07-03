@@ -1,6 +1,6 @@
 {
     "name": "Devil Ultra - UserBot",
-    "description": "An advanced Telethon Userbot, from @Mr_Devil_Ultra",
+    "description": "An advanced Telethon Userbot, from @MrDevilUltra",
     "logo": "https://telegra.ph/file/d8d194c18562472a7c1f1.jpg",
     "keywords": [
      "telegram",
@@ -9,8 +9,8 @@
      "modular",
      "productivity"
     ],
-    "repository": "https://github.com/DevilUltra/DEVILULTRA",
-    "website": "https://github.com/DevilUltra/DEVILULTRA",
+    "repository": "https://github.com/MrDevilUltra/DEVILULTRA",
+    "website": "https://github.com/MrDevilUltra/DEVILULTRA",
     "success_url": "https://t.me/Devil_Ultra_support_channel",
     "stack": "container",
     "env": {
