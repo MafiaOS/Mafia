@@ -38,12 +38,9 @@ _set_bot () {
     sleep 5
     cd $DEVILULTRAPATH
     echo "    Starting DEVILULTRA    "
-    echo "
-                          ╔═╦═╦══╦══╦══╦══╦══╦═╦══╗
-                          ║║║║║╔╗║═╦╩║║╣╔╗║╔╗║║╠╗╔╝
-                          ║║║║║╠╣║╔╝╔║║╣╠╣║╔╗║║║║║
-                          ╚╩═╩╩╝╚╩╝─╚══╩╝╚╩══╩═╝╚╝
-    "
+    
+ 
+   
 
     python3 ./setup/updater.py ./requirements.txt requirements.txt
     python3 -m userbot
