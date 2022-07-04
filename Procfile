@@ -1,1 +1,1 @@
-worker: bash DEVILULTRA
+worker: bash mafiabot
