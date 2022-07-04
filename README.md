@@ -1,10 +1,10 @@
-# DEVILULTRA
+# MAFIA
 
-<h2 align="center"><b>Owner: <a href="https://telegram.dog/krish1303y">MrDevilUltra 🇮🇳</a></b></h2>
+<h2 align="center"><b>Owner: <a href="https://telegram.dog/krish1303y">MAFIA🇮🇳</a></b></h2>
 <br>
-<p align="center"><a href="https://t.me/Devil_Ultra_Support_Channel"><img src="https://te.legra.ph/file/8139b4771f145a923e407.jpg"></a></p> 
+<p align="center"><a href="https://t.me/mafiasupport"><img src="https://te.legra.ph/file/8139b4771f145a923e407.jpg"></a></p> 
 </p>
-<h1>DEVIL ULTRA</h1>
+<h1>MAFIA</h1>
 <b>A Powerful, Smart And Simple Userbot In Telethon.</b>
 <br>
 <br>
@@ -14,8 +14,8 @@
 
 
 # Support
-<a href="https://t.me//Devil_Ultra_Support_Channel"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/devilultrasupport"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me//mafiasupport"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/mafiasupportgroup"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
  
@@ -51,7 +51,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
-- Your DEVILULTRA Session Will be saved in your Telegram Saved Message.
+- Your MAFIA Session Will be saved in your Telegram Saved Message.
 - There's a bug in repl which prints your input twice or more. You need to long tap and paste the required information in repl.
 - [![Run on Repl.it](https://repl.it/badge/github/MrDevilUltra/DEVILULTRA&theme=midnight-purple)](https://replit.com/@MrDevilUltra/DEVILULTRA#main.py
 )
