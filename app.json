@@ -1,5 +1,5 @@
 {
-  "name": "𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃",
+  "name": "DEVILULTRA",
   "description": "The MafiaBot made by @H1M4N5HU0P special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
   "logo": "https://telegra.ph/file/75229ba894ef780332815.jpg",
     "keywords": [
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MafiaBotIsOP/",
-  "website": "https://github.com/H1M4N5HU0P/MafiaBotIsOP/",
-  "success_url": "https://t.me/MafiaBot_Support",
+  "repository": "https://github.com/MrDevilUltra/DEVILULTRA/",
+  "website": "https://github.com/MrDevilUltra/DEVILULTRA/",
+  "success_url": "https://t.me/devilultrasupport",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
