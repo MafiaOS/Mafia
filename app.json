@@ -33,7 +33,7 @@
       "required": false
     },    
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .mafia Command.",
+      
       "value": "DEVILULTRA IS ALIVE",
       "required": false
     },
