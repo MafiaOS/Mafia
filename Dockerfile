@@ -1,7 +1,7 @@
-FROM MrDevilUltra/DEVILULTRA:latest
+FROM MafiaOS/Mafia:latest
 
 # clonning repo 
-RUN git clone https://github.com/MrDevilUltra/DEVILULTRA.git /root/userbot
+RUN git clone https://github.com/MafiaOS/Mafia.git /root/userbot
 
 RUN pip install --upgrade pip
 
