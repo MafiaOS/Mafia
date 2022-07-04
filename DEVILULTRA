@@ -4,7 +4,7 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $MAFIA_REPO == "devilultra" ]]
+    if [[ $DEVILULTRA_REPO == "devilultra" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0gxTTRONUhVMFAvTUFGSUEtVVNFUkJPVC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     elif [[ $DEVILULTRA_REPO == "DEVILULTRA" ]]
