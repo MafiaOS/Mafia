@@ -1,6 +1,6 @@
 # MAFIA
 
-<h2 align="center"><b>Owner: <a href="https://telegram.dog/krish1303y">MAFIA🇮🇳</a></b></h2>
+
 <br>
 <p align="center"><a href="https://t.me/mafiasupport"><img src="https://te.legra.ph/file/8139b4771f145a923e407.jpg"></a></p> 
 </p>
