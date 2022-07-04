@@ -2,7 +2,7 @@
 
 <h2 align="center"><b>Owner: <a href="https://telegram.dog/krish1303y">MrDevilUltra 🇮🇳</a></b></h2>
 <br>
-<p align="center"><a href="https://t.me/Devil_Ultra_Support_Channel"><img src="https://telegra.ph/file/07d55d71944a852ac6d5e.jpg"></a></p> 
+<p align="center"><a href="https://t.me/Devil_Ultra_Support_Channel"><img src="https://te.legra.ph/file/8139b4771f145a923e407.jpg"></a></p> 
 </p>
 <h1>DEVIL ULTRA</h1>
 <b>A Powerful, Smart And Simple Userbot In Telethon.</b>
@@ -48,9 +48,9 @@
 
 14. And If You Are Goinn For Study  Do ```.study``` The Bot WIll Auto Reply Messages With A Good Study Message ( Some Thing Like Afk But Different)
 
-15. And 5 types Of Hack CMDs
 
-16. And Many More CMDS 
+
+
 
 
 
@@ -61,7 +61,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 # Requirements 
 * Python 3.8 or Higher
 * Telegram [API Keys](https://my.telegram.org/apps)
-* String [Gernate from here](https://repl.it/@Anmol10H/Lightning-Repl#main.py)
+* String [Gernate from here](https://repl.it/@MrDevilUltra/DEVILULTRA-Repl#main.py)
 
 
 
