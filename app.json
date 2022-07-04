@@ -1,7 +1,7 @@
 {
   "name": "𝚃𝙷𝙴 DEVILULTRA",
   "description": "The DEVILULTRA bot is made by @MrDevilUltra",
-  "logo": "https://telegra.ph/file/75229ba894ef780332815.jpg",
+  "logo": "https://te.legra.ph/file/c5d00c4f10835f848ac57.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/MrDevilUltra/DEVILULTRA/",
   "website": "https://github.com/MrDeviUltra/DEVILULTRA/",
-  "success_url": "https://t.me/MafiaBot_Support",
+  "success_url": "https://t.me/devil_ultra_support_channel",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -49,8 +49,8 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
-      "required": true
+      "value": "",
+      "required": false
     },
     "CUSTOM_PMPERMIT": {
       "description": "Enter Your custom pm permit msg.",
