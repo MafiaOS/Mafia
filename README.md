@@ -44,7 +44,17 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 ## String
 
-
+### Repl
+- Open Repl Link.
+- Click on Green Play Button.
+- Wait for requirements to finish.
+- Fill API ID, API HASH, Phone number (with country code).
+- Paste the OTP received on Telegram.
+- If You have Enabled 2-Step Verification then fill your password.
+- Your DEVILULTRA Session Will be saved in your Telegram Saved Message.
+- There's a bug in repl which prints your input twice or more. You need to long tap and paste the required information in repl.
+- [![Run on Repl.it](https://repl.it/badge/github/MrDevilUltra/DEVILULTRA&theme=midnight-purple)](https://replit.com/@MrDevilUltra/DEVILULTRA#main.py
+)
 
 * TelegramBot : [@stringbyultradevil_bot](https://t.me/stringbyultradevil_bot) 
 
