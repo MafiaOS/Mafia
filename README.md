@@ -1,9 +1,9 @@
 # MAFIA
 
 
-<br>
-<p align="center"><a href="https://t.me/mafiasupport"><img src="https://te.legra.ph/file/8139b4771f145a923e407.jpg"></a></p> 
-</p>
+
+
+
 <h1>MAFIA</h1>
 <b>A Powerful, Smart And Simple Userbot In Telethon.</b>
 <br>
