@@ -71,13 +71,11 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrDevilUltra/DEVILULTRA)
 
 
-# String
+## String
 
 
 
-[ Get it From @stringbyultradevil_bot
-)
-
+* TelegramBot : [@stringbyultradevil_bot](https://t.me/stringbyultradevil_bot) 
 
 
 
