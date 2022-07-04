@@ -1,9 +1,9 @@
 from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
-mafia = input("✵ Enter y/yes to continue: ")
+DEVILULTRA = input("✵ Enter y/yes to continue: ")
 if mafia == 'y' or 'yes':
- print("\nPlease go to my.telegram.org and get your API Id and API Hash to proceed\n\n 𒊹︎︎︎ɢɪᴛʜᴜʙ ʀᴇᴘᴏ ɪs ➪➪ https://github.com/MafiaBotOP/MafiaBot")
-print("""\n\nWelcome To MafiaBot String Session\nGenerator By @H1M4N5HU0P\n\n""")
+ print("\nPlease go to my.telegram.org and get your API Id and API Hash to proceed\n\n 𒊹︎︎︎ɢɪᴛʜᴜʙ ʀᴇᴘᴏ ɪs ➪➪ https://github.com/MrDevilUltra/DevilUltra")
+print("""\n\nWelcome To MafiaBot String Session\nGenerator By @MrDevilUltra\n\n""")
 print("""Enter Your Valid Details To Continue!\n\n """)
 
 API_KEY = input("API_ID:  ")
@@ -19,7 +19,7 @@ while True:
             session = client.session.save()
             client.send_message(
                 "me",
-                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it)👇 \n\n `{session}` \n\n And Visit @MafiaBot_Support For Any Help!\n\n",
+                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it)👇 \n\n `{session}` \n\n And Visit @devil_ultra_support_channel For Any Help!\n\n",
             )
 
             print(
@@ -28,7 +28,7 @@ while True:
     except:
         print("")
         print(
-            "Wrong phone number \n make sure its with correct country code. Example : +918925534834! Kindly Retry"
+            "Wrong phone number \n make sure its with correct country code. Example : +919428634834! Kindly Retry"
         )
         print("")
         continue
