@@ -1,1 +1,1 @@
-worker: bash devilultra
+worker: bash DEVILULTRA
