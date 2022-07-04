@@ -32,14 +32,14 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 # Requirements 
 * Python 3.8 or Higher
 * Telegram [API Keys](https://my.telegram.org/apps)
-* String [Gernate from here](https://repl.it/@MrDevilUltra/DEVILULTRA-Repl#main.py)
+* String [Gernate from here](https://repl.it/@MrDevilUltra/MAFIASESSION-Repl#main.py)
 
 
 
 
 # Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrDevilUltra/DEVILULTRA)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MafiaOS/Mafia)
 
 
 ## String
@@ -53,7 +53,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 - If You have Enabled 2-Step Verification then fill your password.
 - Your MAFIA Session Will be saved in your Telegram Saved Message.
 - There's a bug in repl which prints your input twice or more. You need to long tap and paste the required information in repl.
-- [![Run on Repl.it](https://repl.it/badge/github/MrDevilUltra/DEVILULTRA&theme=midnight-purple)](https://replit.com/@MrDevilUltra/DEVILULTRA#main.py
+- [![Run on Repl.it](https://repl.it/badge/github/MafiaOS/Mafia&theme=midnight-purple)](https://replit.com/@MrDevilUltra/MAFIASESSION#main.py
 )
 
 * TelegramBot : [@stringbyultradevil_bot](https://t.me/stringbyultradevil_bot) 
@@ -69,5 +69,5 @@ This is a userbot made for telegram. I made this userbot with help of all other 
     [-] APP_ID:   You can get this value from https://my.telegram.org
     [-] API_HASH :   You can get this value from https://my.telegram.org
     
-[+] The DEVIL ULTRA Bot will not work without setting the mandatory vars.
+[+] The MAFIA Bot will not work without setting the mandatory vars.
 ```
