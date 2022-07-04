@@ -1,10 +1,10 @@
 {
     "name": "DEVILULTRA",
     "description": "Tнє Smoothest And Fastest Bot Made By ©Mr_Devil_Ultra. Made with Love And By Python Language With Hardwork... 💙!",
-    "logo": "https://te.legra.ph/file/6ec5599d83ef556279b28.jpg",
+    "logo": "https://te.legra.ph/file/c5d00c4f10835f848ac57.jpg",
     "repository": "https://github.com/MrDevilUltra/DEVILULTRA",
     "env": {
-        "STRING_SESSION1": {
+        "STRING_SESSION": {
             "description": "pyrogram string session here",
             "required": true
         }, 
@@ -22,7 +22,7 @@
         },
         "SUDO_USERS": {
             "description": "Who have Access Your Account But Rearly Plugins there",
-            "required": true
+            "required": false
         },
         "HEROKU_API": {
             "description": "Enter You Heroku Api there",
