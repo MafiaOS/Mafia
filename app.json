@@ -75,12 +75,12 @@
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
       "value": "6930b92388baabff4cb4a1d377085035"
     },
-    "MAFIABOT_LOGGER": {
+    "DEVILULTRA_LOGGER": {
       "description": "Create a private channel/group add rose then type /id in group.",
       "value": "-1001174481876"
     },
     "STRING_SESSION": {
-      "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
+      "description": "Get this value by running https://repl.it/@MrDevilUltra/DEVILULTRA#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -99,7 +99,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@MAFIA_PUBLIC_bot"
+      "value": ""
     },
     "HELP_PIC": {
       "description": "Put link of pic or gif to show your .help menu provider cool",
