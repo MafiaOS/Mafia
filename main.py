@@ -20,7 +20,7 @@ SUDO_USERS = SUDO_USERS
 DB_URL = DB_URL
 
 
-if not STRING_SESSION1:
+if not STRING_SESSION:
     logging.error("No String Session Found! Exiting!")
     quit(1)
 
@@ -48,8 +48,8 @@ else:
     Owner = 777000
 
 
-if STRING_SESSION1:
-    bot1 = Client(session_name= STRING_SESSION1, api_id = API_ID, api_hash = API_HASH , plugins=dict(root="handlers"))
+if STRING_SESSION:
+    bot1 = Client(session_name= STRING_SESSION, api_id = API_ID, api_hash = API_HASH , plugins=dict(root="handlers"))
 else:
     bot1 = None
     
