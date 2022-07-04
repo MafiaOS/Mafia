@@ -59,7 +59,8 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
-      "value": "2184829"
+      "value": ""
+      "required": true
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot sudo access",
@@ -73,11 +74,13 @@
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
-      "value": "6930b92388baabff4cb4a1d377085035"
+      "value": ""
+      "required": true
     },
-    "MAFIABOT_LOGGER": {
+    "DEVILULTRA_LOGGER": {
       "description": "Create a private channel/group add rose then type /id in group.",
-      "value": "-1001174481876"
+      "value": ""
+      "required": true
     },
     "STRING_SESSION": {
       "description": "Get this value by running https://repl.it/@MrDevilUltra/DEVILULTRA#main.py ",
@@ -96,10 +99,12 @@
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
       "value": ""
+      "required": true
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
       "value": ""
+      "required": true
     },
     "HELP_PIC": {
       "description": "Put link of pic or gif to show your .help menu provider cool",
