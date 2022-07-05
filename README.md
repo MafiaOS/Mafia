@@ -83,4 +83,8 @@ This is a userbot made for telegram. I made this userbot with help of all other 
   TG_BOT_USER_NAME_BF_HER :
     
 [+] The MAFIA Bot will not work without setting the mandatory vars.
+
 ```
+
+
+## Made With 💕 by PaNkAj
