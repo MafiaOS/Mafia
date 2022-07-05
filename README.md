@@ -4,7 +4,7 @@
 
 
 
-                                                                           <h1>MAFIA</h1>
+<h1>MAFIA</h1>
 <b>Smart And Simple Userbot In Telethon.</b>
 <br>
 <br>
@@ -42,7 +42,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MafiaOS/Mafia)
 
 
-## ❗️YOU ARE FOREWARNED❗️
+## YOU ARE FOREWARNED
 > We won't be responsible for any kind of ban due to this bot.
 > MafiaBot was made for fun purpose and to make group management easier.
 > It's your concern if you spam and gets your account banned.
