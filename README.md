@@ -1,11 +1,11 @@
-# MAFIA
+
 
 
 
 
 
 <h1>MAFIA</h1>
-<b>A Powerful, Smart And Simple Userbot In Telethon.</b>
+<b>Smart And Simple Userbot In Telethon.</b>
 <br>
 <br>
 
@@ -56,7 +56,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 - [![Run on Repl.it](https://repl.it/badge/github/MafiaOS/Mafia&theme=midnight-purple)](https://replit.com/@MrDevilUltra/MAFIASESSION#main.py
 )
 
-* TelegramBot : [@stringbyultradevil_bot](https://t.me/stringbyultradevil_bot) 
+* TelegramBot : [STRINGBOT](t.me/stringbyultradevil_bot) 
 
 
 
@@ -66,8 +66,12 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 [+] This is because of telethon.errors.rpc_error_list.ApiIdPublishedFloodError
 
-    [-] APP_ID:   You can get this value from https://my.telegram.org
-    [-] API_HASH :   You can get this value from https://my.telegram.org
+  APP_ID:   You can get this value from https://my.telegram.org
+  API_HASH :   You can get this value from https://my.telegram.org
+  MAFIABOT_LOGFER : Create a private channel/group add rose then type /id in group.
+  STRING_SESSION
+  TG_BOT_TOKEN_BF_HER :
+  TG_BOT_USER_NAME_BF_HER :
     
 [+] The MAFIA Bot will not work without setting the mandatory vars.
 ```
