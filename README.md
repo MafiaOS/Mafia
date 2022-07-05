@@ -56,7 +56,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 - [![Run on Repl.it](https://repl.it/badge/github/MafiaOS/Mafia&theme=midnight-purple)](https://replit.com/@MrDevilUltra/MAFIASESSION#main.py
 )
 
-* TelegramBot : [STRINGBOT](t.me/stringbyultradevil_bot) 
+* TelegramBot : [STRINGBOT](https://t.me/stringbyultradevil_bot) 
 
 
 
